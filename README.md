@@ -1,7 +1,7 @@
 ### Hi there, I'm Kean Garcia aka Keanthology! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Data+Engineer;Passionate+about+Tech+%26+Design;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Data+Engineer;Passionate+about+Tech+%26+Data;Growth,+Integrity,+and+Proficiency" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,22 +12,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keanthology&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keanthology&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,java,python,php,mysql,mongodb,git,linux,figma" alt="Tech Stack" />
+  <img src="[https://media.licdn.com/dms/image/v2/C5612AQHYGcBSIfxMOQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1637370845713?e=1745452800&v=beta&t=2WDOnW8UncbdHk-Q_l2i7uhuWCjNkCI4cL5KvsKZl6s](https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png)" alt="Databricks" width="1280" height="201" />
 </p>
 
 ---
