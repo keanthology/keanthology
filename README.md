@@ -9,9 +9,6 @@
 ### 🚀 About Me
 
 - Data Engineer
-- 📫 How to reach me: **[Email Me](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/keanthology) | [Portfolio](https://yourportfolio.com)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love photography and coding late at night! 🌙**
 
 ---
 
