@@ -1,7 +1,7 @@
 ### Hi there, I'm Kean Garcia aka Keanthology! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Aspiring+Software+Engineer;Passionate+about+Tech+%26+Design;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub!;Data+Engineer;Passionate+about+Tech+%26+Design;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
